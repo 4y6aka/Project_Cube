@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
 	background: green;
+=======
+	background: yellow;
+>>>>>>> newbranch
 	color: blue;
 	font-weight: italic;
 }
